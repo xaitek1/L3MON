@@ -1,7 +1,7 @@
 {
   "name": "L3MON",
   "version": "1.0.0",
-  "description": "L3MON - Remote Android Managment Suite",
+  "description": "L3MON - Remote Eye Suite",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
